@@ -24,7 +24,7 @@ Thanks to @Alfathdirk @TCR_TEAM\n\
 | Change it to your authToken / your email & password
 */
 const auth = {
-	authToken: 'EvT9gg6W7PUN0nUHQMk6.OZPByBcwKcGMRyJo7fYRvG.SCfBcxIupbNJBn9NuRwkJ/WnUD5MCUfD1ojCKP4uo2Y=',
+	authToken: '',
 	certificate: '',
 	email: '',
 	password: ''
